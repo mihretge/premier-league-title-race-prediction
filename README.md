@@ -1,4 +1,4 @@
-# Premier League Title Race Prediction
+# Premier League Title Race Prediction - 2025/2026 Season Premiur League
 
 This project predicts the Premier League title race between Arsenal and Manchester City using a Poisson goal model and Monte Carlo simulation.
 
